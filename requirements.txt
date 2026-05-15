@@ -1,4 +1,4 @@
-streamit 
-suparbase
-google gemini 
-google gsheets
+streamlit 
+supabase
+google genai
+st-gsheets-connection
