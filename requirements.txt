@@ -1,1 +1,4 @@
 streamit 
+suparbase
+google gemini 
+google gsheets
